@@ -2,7 +2,7 @@
 
 littlebird's official web site build with Bootstrap and Sketch 3.
 
-![](screenshot.png?raw=true)
+![](update_sketch-screenshot.png?raw=true)
 
 ## URL
 

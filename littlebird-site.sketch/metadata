@@ -3,20 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>app</key>
-	<string>com.bohemiancoding.sketch3.beta</string>
+	<string>com.bohemiancoding.sketch3</string>
 	<key>build</key>
-	<integer>7884</integer>
+	<integer>7891</integer>
 	<key>commit</key>
-	<string>00e8942f016455fa9af378ad8d7470d79fa1fc43</string>
+	<string>debc570766a4cc5a2e31258967910f7e5776f485</string>
 	<key>fonts</key>
 	<array>
 		<string>MarckScript-Regular</string>
 		<string>HiraKakuProN-W3</string>
+		<string>OpenSans-Light</string>
 		<string>SourceSansPro-Light</string>
+		<string>FontAwesome</string>
+		<string>HiraKakuProN-W6</string>
 		<string>SourceSansPro-Regular</string>
 	</array>
 	<key>length</key>
-	<integer>9651459</integer>
+	<integer>8652264</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
